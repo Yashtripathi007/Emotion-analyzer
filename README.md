@@ -1,6 +1,8 @@
 # Emotion-analyzer
 
 # for frontend 
+
+```bash
 cd frontend
 npm install
 npm run dev
